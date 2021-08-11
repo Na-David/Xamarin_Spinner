@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+	<string-array name="City_Names">
+		<item>Auckland</item>
+		<item>Wellington</item>
+		<item>ChristChurch</item>
+	</string-array>
+</resources>
